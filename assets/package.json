@@ -1,0 +1,24 @@
+{
+  "name": "team-profile-generator",
+  "version": "1.0.0",
+  "description": "This is a command line application that take in information about employees on a software engineering team, then generates an HTML webpage that displays summaries for each person. JS, Node.JS and NPM libraries will be utilised to build this application.",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "test": "jest",
+    "start": "node index"
+    
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/tosin1691"
+  },
+  "author": "Tosin Orekoya",
+  "license": "MIT",
+  "dependencies": {
+    "inquirer": "^6.5.0",
+    "jest": "^24.8.0"
+  }
+}
