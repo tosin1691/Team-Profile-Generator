@@ -1,0 +1,26 @@
+.team-heading {
+background-color: rgb(21, 224, 227);
+color: #ffffff;
+}
+
+.container {
+     margin: 50px auto;
+}
+
+.cardContainer {
+    margin: 0 auto;
+
+}
+
+.employee-card{
+   margin: 1rem;
+   box-shadow: 5px 2px 5px;
+}
+
+.card-header {
+  background-color: rgb(222, 143, 232, 0.4); 
+}
+
+.card-body {
+    background-color:rgb(239, 150, 150);
+}
